@@ -1,2 +1,2 @@
 # demo_etl_deribit
-[DEMO] ETL server based on Django fetching from Deribit
+[DEMO] ETL server fetching data from Deribit using the Django framework
